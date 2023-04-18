@@ -7,3 +7,4 @@
 
 
 ## 2.0
+![DiagramaGrupoSegundaInteração2 0](https://user-images.githubusercontent.com/103125164/232924463-3d7987e5-6be4-4670-b248-6bc020110b43.png)
