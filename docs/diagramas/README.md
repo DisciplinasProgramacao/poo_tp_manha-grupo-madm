@@ -1,3 +1,3 @@
-# Diagramas de classe
+# Diagramas do Trabalho em Grupo
 
 
