@@ -1,8 +1,36 @@
-| Usuário      | Requisito | Motivação     |
-| :----:        |    :----:   |          :----: |
-| Como um XXXXXX, eu quero      | --requsito--       | para...    |
-| Como um XXXXXX, eu quero   | --requisito--         | para...      |
 
 
+| Tarefa      | Responsável |
+| ----------- | ----------- |
+| 1. Alimentar as galinhas      | Dunga  ✔️     |
+| 2. Espanar os móveis   | Atchim ✔️       |
+| 3. Cortar lenha   | Zangado ✔️       |
+| 4. Pagar as contas   | Mestre ✔️       |
+| 5. Planejamento da semana que vem   | Mestre ✔️       |
+| 6. Organizar o jantar   | Feliz ✔️       |
+| 7. Aguar as plantas   | Dengoso  ✔️      |
+| 1.Implementação das classes Cliente, Serie e PlataformaStreaming como originalmente planejadas    | Maria Luiza ✔️  |
+| 2. Atualização do diagrama original para contemplar requisito de carga de dados | Maria Luiza ✔️       |
+| 3. Implementação dos métodos para carga de dados de séries, clientes e audiência em funcionamento  | ✔️       |
+| 4. Atualização do diagrama para abrigar o novo tipo de mídia: Filme | Maria Luiza ✔️       |
+| 5. Implementação da lógica de carga de dados do catálogo de filmes |  ✔️       |
+| 6. Implementação do cadastro de clientes, filmes e séries |  ✔️       |
+| 7. Salvar dados de clientes, filmes e séries |  ✔️      |
+| 8. Implementação do sistema de avaliação de mídias: uma mídia tem sua avaliação média |  ✔️      |
+| 9. Clientes podem ser regulares ou especialistas, e estes últimos podem adicionar comentários à avaliação |  ✔️  |
+
+
+----
+
+## Tarefas pendentes (em ordem de prioridade)
+
+| Tarefa      | Responsável |
+| ----------- | ----------- |
+| 1. Catar frutas no bosque      | Soneca ➕➖     |
+| 2. Arrumar as camas   | Soneca  ❌    |
+| 3. Consertar a cerca | Zangado  ➕➖ | 
+| 1. Garantir a robustez do sistema principal    | ❌    |
+| 2.Implementação do protótipo de sistema cobrindo os requisitos   | ❌    |
+| 3. Um cliente não pode avaliar a mesma mídia duas vezes  | ❌ | 
 
 > Written with [StackEdit](https://stackedit.io/).
