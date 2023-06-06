@@ -20,9 +20,6 @@ Atualizado em DD/MM/AAAA
 
 | Tarefa      | Responsável |
 | ----------- | ----------- |
-| 1. Catar frutas no bosque      | Soneca ➕➖     |
-| 2. Arrumar as camas   | Soneca  ❌    |
-| 3. Consertar a cerca | Zangado  ➕➖ | 
 | 1. Garantir a robustez do sistema principal    | ❌    |
 | 2.Implementação do protótipo de sistema cobrindo os requisitos   | ❌    |
 | 3. Um cliente não pode avaliar a mesma mídia duas vezes  | ❌ | 
