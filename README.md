@@ -1,5 +1,5 @@
 
-# Streaming
+# Prime Streaming
 É uma plataforma de filmes , séries , documentários e outros conteúdos pela internet em qualquer dispositivo com conexão e em tempo real.
 
 
