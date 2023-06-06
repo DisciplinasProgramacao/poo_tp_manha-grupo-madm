@@ -3,13 +3,6 @@ Atualizado em DD/MM/AAAA
 
 | Tarefa      | Responsável |
 | ----------- | ----------- |
-| 1. Alimentar as galinhas      | Dunga  ✔️     |
-| 2. Espanar os móveis   | Atchim ✔️       |
-| 3. Cortar lenha   | Zangado ✔️       |
-| 4. Pagar as contas   | Mestre ✔️       |
-| 5. Planejamento da semana que vem   | Mestre ✔️       |
-| 6. Organizar o jantar   | Feliz ✔️       |
-| 7. Aguar as plantas   | Dengoso  ✔️      |
 | 1.Implementação das classes Cliente, Serie e PlataformaStreaming como originalmente planejadas    | Maria Luiza ✔️  |
 | 2. Atualização do diagrama original para contemplar requisito de carga de dados | Maria Luiza ✔️       |
 | 3. Implementação dos métodos para carga de dados de séries, clientes e audiência em funcionamento  | ✔️       |
