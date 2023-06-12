@@ -1,5 +1,5 @@
 # Backlog do Prime Streaming
-Atualizado em DD/MM/AAAA
+Atualizado em 12/06/2023
 
 | Tarefa      | Responsável |
 | ----------- | ----------- |
