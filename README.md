@@ -1,6 +1,6 @@
 
 # Prime Streaming
-É uma plataforma de filmes , séries , documentários e outros conteúdos pela internet em qualquer dispositivo com conexão e em tempo real.
+Prime Streaming, uma plataforma de streaming com uma ampla variedade de séries e filmes. Nossa biblioteca abrange diversos gêneros para satisfazer todos os gostos. Oferecemos uma experiência personalizada com recomendações baseadas em suas preferências. Você pode desfrutar do conteúdo quando e onde quiser, em diferentes dispositivos. Também oferecemos classes de cliente com benefícios exclusivos. Prepare-se para mergulhar em histórias fascinantes e descobrir um mundo de entretenimento excepcional.
 
 
 ## Alunos integrantes da equipe
