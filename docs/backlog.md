@@ -20,6 +20,6 @@ Atualizado em 12/06/2023
 
 | Tarefa      | Responsável |
 | ----------- | ----------- |
-| 2. Clientes podem ser regulares ou especialistas, e estes últimos podem adicionar comentários à avaliação |  TEMPO ❌ |
+| 1. Clientes podem ser regulares ou especialistas, e estes últimos podem adicionar comentários à avaliação |  TEMPO ❌ |
 
 > Written with [StackEdit](https://stackedit.io/).
