@@ -13,13 +13,13 @@ Atualizado em 12/06/2023
 | 8. Implementação do sistema de avaliação de mídias: uma mídia tem sua avaliação média | Diogo ,Maria Luiza e Abner ✔️      |
 | 9. Garantir a robustez do sistema principal    | Maria Luiza , Diogo, Abner ✔️      |
 | 10.Implementação do protótipo de sistema cobrindo os requisitos   | Abner ✔️    |
+| 1. Um cliente não pode avaliar a mesma mídia duas vezes  | Diogo ✔️ | 
 ----
 
 ## Tarefas pendentes (em ordem de prioridade)
 
 | Tarefa      | Responsável |
 | ----------- | ----------- |
-| 1. Um cliente não pode avaliar a mesma mídia duas vezes  | TEMPO ❌ | 
 | 2. Clientes podem ser regulares ou especialistas, e estes últimos podem adicionar comentários à avaliação |  TEMPO ❌ |
 
 > Written with [StackEdit](https://stackedit.io/).
