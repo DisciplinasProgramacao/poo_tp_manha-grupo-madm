@@ -2,6 +2,13 @@
 # Prime Streaming
 Prime Streaming, uma plataforma de streaming com uma ampla variedade de séries e filmes. Nossa biblioteca abrange diversos gêneros para satisfazer todos os gostos. Oferecemos uma experiência personalizada com recomendações baseadas em suas preferências. Você pode desfrutar do conteúdo quando e onde quiser, em diferentes dispositivos. Também oferecemos classes de cliente com benefícios exclusivos. Prepare-se para mergulhar em histórias fascinantes e descobrir um mundo de entretenimento excepcional.
 
+----
+
+# **ATENÇÃO**
+
+## Grandes porções do trabalho estão idênticas a outro trabalho entregue. Neste momento, o grupo está com nota 1 até que a situação seja esclarecida. 
+
+----
 
 ## Alunos integrantes da equipe
 
